@@ -10,7 +10,7 @@ It is used to update the Kubernetes deployment YAML file with the latest Docker 
 
 ## ArgoCD Deployment
 
-![ArgoCD Interface](Argocd.png)
+![ArgoCD Interface](bankapp/Images/Argocd.png)
 
 ## Jenkins CD Stage
 
