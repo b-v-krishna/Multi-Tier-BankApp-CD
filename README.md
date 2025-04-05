@@ -6,7 +6,7 @@ It is used to update the Kubernetes deployment YAML file with the latest Docker 
 
 ## Application UI
 
-![Application](Application.png)
+![Application](bankapp/Images/Application.png)
 
 ## ArgoCD Deployment
 
