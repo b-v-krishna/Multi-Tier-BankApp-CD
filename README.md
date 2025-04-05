@@ -4,6 +4,14 @@ This repository is used for the **Continuous Deployment (CD)** pipeline for the 
 
 It is used to update the Kubernetes deployment YAML file with the latest Docker image tag and push the updated manifest to the GitHub repo.
 
+## Application Architecture
+
+![Application Architecture](Application.png)
+
+## ArgoCD Interface
+
+![ArgoCD Interface](Argocd.png)
+
 ## Jenkins CD Stage
 
 The Jenkins pipeline performs the following actions in the **CD stage**:
