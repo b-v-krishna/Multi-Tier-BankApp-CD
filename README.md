@@ -22,7 +22,6 @@ This file contains the Kubernetes Deployment for the `bankapp` service.
 Jenkins dynamically updates the Docker image tag in the following line during CD
 
 
-
 # 🛠️ Prerequisites
 Ensure your Jenkins instance has the following:
 
@@ -34,5 +33,6 @@ Pipeline configured with DOCKER_TAG as a parameter.
 
 Docker image built and pushed with the given DOCKER_TAG.
 
-
+📃 License
+This project is licensed under the MIT License
 
