@@ -4,11 +4,11 @@ This repository is used for the **Continuous Deployment (CD)** pipeline for the 
 
 It is used to update the Kubernetes deployment YAML file with the latest Docker image tag and push the updated manifest to the GitHub repo.
 
-## Application Architecture
+## Application UI
 
 ![Application](Application.png)
 
-## ArgoCD Interface
+## ArgoCD Deployment
 
 ![ArgoCD Interface](Argocd.png)
 
