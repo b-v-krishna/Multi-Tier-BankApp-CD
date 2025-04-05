@@ -41,6 +41,6 @@ Pipeline configured with DOCKER_TAG as a parameter.
 
 Docker image built and pushed with the given DOCKER_TAG.
 
-**License**
+## License
 This project is licensed under the MIT License
 
