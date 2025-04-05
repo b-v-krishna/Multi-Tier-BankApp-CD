@@ -15,18 +15,20 @@ The Jenkins pipeline performs the following actions in the **CD stage**:
 5. **Commit and push** the changes back to the `main` branch of this repository.
 
    
-## 📝 bankapp-ds.yml
+##  bankapp-ds.yml
 
 This file contains the Kubernetes Deployment for the `bankapp` service.
 
 Jenkins dynamically updates the Docker image tag in the following line during CD
 
-Ensure your Jenkins instance has the following:
+
 
 # 🛠️ Prerequisites
+Ensure your Jenkins instance has the following:
+
 Git credentials (git-cred) configured.
 
-Write access to this repository.
+Access to this repository.
 
 Pipeline configured with DOCKER_TAG as a parameter.
 
