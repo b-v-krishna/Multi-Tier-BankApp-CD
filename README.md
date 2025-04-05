@@ -1,6 +1,6 @@
 # Multi-Tier-BankApp-CD
 
-This repository is used for handling the **Continuous Deployment (CD)** pipeline for the Multi-Tier Bank Application.
+This repository is used for the **Continuous Deployment (CD)** pipeline for the Multi-Tier Bank Application.
 
 It is used to update the Kubernetes deployment YAML file with the latest Docker image tag and push the updated manifest to the GitHub repo.
 
