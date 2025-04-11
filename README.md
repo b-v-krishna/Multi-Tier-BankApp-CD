@@ -30,10 +30,10 @@ This file contains the Kubernetes Deployment for the `bankapp` service.
 Jenkins dynamically updates the Docker image tag in the following line during CD
 
 
-# 🛠️ Prerequisites
+# Prerequisites
 Ensure your Jenkins instance has the following:
 
-Git credentials (git-cred) configured.
+Git credentials configured.
 
 Access to this repository.
 
